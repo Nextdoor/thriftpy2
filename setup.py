@@ -31,7 +31,7 @@ except ImportError:
     pass
 
 dev_requires = [
-    "cython>=0.28.4",
+    "cython>=0.29.32",
     "flake8>=2.5",
     "pytest>=2.8",
     "sphinx-rtd-theme>=0.1.9",
